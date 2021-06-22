@@ -1,0 +1,6 @@
+tensorflow==2.3.1
+autokeras==1.0.10
+git+https://github.com/keras-team/keras-tuner.git
+mxnet
+autogluon==0.0.15
+scikit-learn==0.23.2
